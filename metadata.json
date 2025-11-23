@@ -1,0 +1,5 @@
+{
+  "name": "ScholarSync - AI Research Assistant",
+  "description": "An AI-powered tool to search, filter, and organize academic papers using Google Search Grounding. Simulate batch finding and export citation data locally.",
+  "requestFramePermissions": []
+}
